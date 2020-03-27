@@ -14,7 +14,7 @@ spring:
 # 自定义配置
 ly:
   sms:
-    accessKeyId: LTAI4FtnqGXVSdwGqHDchU8o # 你自己的accessKeyId
+    accessKeyId: LTAI4FtnqGXVSdwGqHDchU7o # 你自己的accessKeyId
     accessKeySecret: UAG3DOXdFMAGHWdqDdfqHXOefmik1V # 你自己的AccessKeySecret
     signName: 商城小助手 # 签名名称
     verifyCodeTemplate: SMS_180345528 # 模板名称
